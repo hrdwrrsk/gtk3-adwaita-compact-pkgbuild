@@ -1,3 +1,7 @@
+# NOTE: This pkgbuild will be discontinued (anyone can bring it to AUR/fork this repo for future maintenance) and will be replaced with new project called AdwaitaExtended. More info coming
+
+=====
+
 # gtk3-adwaita-compact-pkgbuild
 Gtk3 patched to enable compact version of Adwaita theme. Currently only served as Arch Linux PKGBUILD
 
